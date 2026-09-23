@@ -240,32 +240,5 @@ cd interview-ai
 
 ---
 
-## 💻 Uploading to GitHub
 
-If you haven't uploaded this repository to GitHub yet, follow these steps from the root directory:
 
-```bash
-# 1. Initialize git (if not already initialized)
-git init
-
-# 2. Stage all files (respecting .gitignore)
-git add .
-
-# 3. Create your initial commit
-git commit -m "feat: initial commit with full-stack AI interview preparation platform"
-
-# 4. Rename default branch to main
-git branch -M main
-
-# 5. Connect your remote GitHub repository
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-
-# 6. Push code to GitHub
-git push -u origin main
-```
-
----
-
-## 🛡️ License
-
-This project is licensed under the [ISC License](LICENSE).
